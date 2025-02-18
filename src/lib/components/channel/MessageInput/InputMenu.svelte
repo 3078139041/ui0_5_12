@@ -60,7 +60,7 @@
 				>
 					<CameraSolid />
 					<div class=" line-clamp-1">{$i18n.t('Capture')}</div>
-					<hr></DropdownMenu.Item>
+					<hr>
 				</DropdownMenu.Item>
 			{/if}
 
